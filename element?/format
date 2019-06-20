@@ -1,0 +1,14 @@
+<html>
+<head></head>
+<body>
+<p>this is paragraph</p>
+<p><b>BOLD TEXT</b></p>
+<p><big>BIG TEXT</big></p>
+<p><small>SMALL TEXT</small></p>
+<p><i>ITALIC TEXT</i></p>
+<p><sub>SUBSCRIPTED TEXT</sub></p>
+<p><sup>SUPERSCRIPTED</sup></p>
+<p><ins>INSERTED TEXT</ins></p>
+<p><del>DELETED TEXT</del></p>
+</body>
+</html>
